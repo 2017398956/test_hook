@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/frida-gum": "^18.3.0",
+    "frida": "^16.0.8"
+  }
+}
